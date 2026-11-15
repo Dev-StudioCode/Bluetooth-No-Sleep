@@ -1,0 +1,9 @@
+# AI review and internal reference notes
+review.md
+
+# Compiled binaries and build artifacts
+*.dll
+*.exe
+*.o
+build/
+.vs/
